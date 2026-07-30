@@ -1,2 +1,58 @@
-# batmobile-tumbler-setup-custom-chassis
-Projeto de robótica inspirado no Batmóvel Tumbler com chassi personalizado do zero, controlado por ESP32 e programado em C++
+# 🦇 Batmobile Tumbler - Custom Chassis & ESP32 Setup
+
+> Projeto de robótica inspirado no Batmóvel Tumbler com chassi personalizado do zero, controlado por ESP32 e programado em C++.
+
+---
+
+## 🎬 Demonstração em Vídeo
+
+🎥 **[Clique aqui para assistir ao vídeo do Batmóvel Tumbler em ação no LinkedIn!](LINK_DO_SEU_POST_NO_LINKEDIN)**
+
+---
+
+## 🛠️ Materiais & Componentes
+
+Relação dos componentes utilizados no projeto:
+
+![Componentes](car_takes/components.png)
+
+* Microcontrolador ESP32
+* Driver de Motor Ponte H
+* Motores DC com caixa de redução
+* Faróis LED e Câmera integrada
+* Estrutura e conectores diversos
+
+---
+
+## 🔌 Esquemáticos & Circuito Eletrônico
+
+### 1. Esquemático Elétrico (EasyEDA)
+O esquemático elétrico completo com todas as conexões e pinagens está disponível em PDF na raiz deste repositório:
+📄 **[Ver Esquemático em PDF](Schematic_Batmóvel-Tumbler-Setup.png)**
+
+### 2. Montagem do Circuito
+
+| Cabeamento Inicial | Circuito Finalizado |
+| :---: | :---: |
+| ![Fiação Inicial](car_takes/initial_wiring.png) | ![Fiação Finalizada](car_takes/finished_wiring.png) |
+
+---
+
+## 🏎️ Chassi Customizado & Carro Finalizado
+
+Construção do chassi sob medida e montagem final do Tumbler:
+
+| Chassi & Medidas | Detalhe do Canhão |
+| :---: | :---: |
+| ![Medidas do Chassi](car_takes/lower_chassis_measurements.png) | ![Canhão](car_takes/cannon.png) |
+
+### 🦇 Resultado Final
+
+![Carro Finalizado](car_takes/finished_car.png)
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido por **Daniel Aires Netto** 🚀  
+🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/danielairesnetto)**
