@@ -55,4 +55,4 @@ Construção do chassi sob medida e montagem final do Tumbler:
 ## 👨‍💻 Desenvolvedor
 
 Desenvolvido por **Daniel Aires Netto** 🚀  
-🔗 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/danielairesnetto)**
+🔗 **[Conecte-se comigo no LinkedIn](www.linkedin.com/in/daniel-aires-netto-4034b13bb)**
