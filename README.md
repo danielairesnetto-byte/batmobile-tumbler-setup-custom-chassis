@@ -6,7 +6,7 @@
 
 ## 🎬 Demonstração em Vídeo
 
-🎥 **[Clique aqui para assistir ao vídeo do Batmóvel Tumbler em ação no LinkedIn!](LINK_DO_SEU_POST_NO_LINKEDIN)**
+🎥 **[Clique aqui para assistir ao vídeo do Batmóvel Tumbler em ação no LinkedIn!](https://www.linkedin.com/in/danielairesnetto)**
 
 ---
 
@@ -27,8 +27,8 @@ Relação dos componentes utilizados no projeto:
 ## 🔌 Esquemáticos & Circuito Eletrônico
 
 ### 1. Esquemático Elétrico (EasyEDA)
-O esquemático elétrico completo com todas as conexões e pinagens está disponível em PDF na raiz deste repositório:
-📄 **[Ver Esquemático em PDF](Schematic_Batmóvel-Tumbler-Setup.png)**
+O esquemático elétrico completo com todas as conexões e pinagens está disponível em PNG na raiz deste repositório:  
+📄 **[Ver Esquemático em PNG](Schematic_Batmóvel-Tumbler-Setup.PNG)**
 
 ### 2. Montagem do Circuito
 
@@ -52,7 +52,7 @@ Construção do chassi sob medida e montagem final do Tumbler:
 
 ---
 
-## 🎬 Demonstração em Vídeo
+## 👨‍💻 Desenvolvedor
 
-🎥 **[Clique aqui para assistir ao vídeo do Batmóvel Tumbler em ação no LinkedIn!]()**
-* 💼 [LinkedIn](https://www.linkedin.com/in/daniel-aires-netto-4034b13bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Desenvolvido por **Daniel Aires Netto** 🚀  
+💼 **[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/daniel-aires-netto-4034b13bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
