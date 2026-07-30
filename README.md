@@ -52,7 +52,7 @@ Construção do chassi sob medida e montagem final do Tumbler:
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## 🎬 Demonstração em Vídeo
 
-Desenvolvido por **Daniel Aires Netto** 🚀  
-🔗 **[Conecte-se comigo no LinkedIn](www.linkedin.com/in/daniel-aires-netto-4034b13bb)**
+🎥 **[Clique aqui para assistir ao vídeo do Batmóvel Tumbler em ação no LinkedIn!]()**
+* 💼 [LinkedIn](https://www.linkedin.com/in/daniel-aires-netto-4034b13bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
