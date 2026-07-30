@@ -6,7 +6,7 @@
 
 ## 🎬 Demonstração em Vídeo
 
-🎥 **[Clique aqui para assistir ao vídeo do Batmóvel Tumbler em ação no LinkedIn!](https://www.linkedin.com/in/danielairesnetto)**
+🎥 **[Clique aqui para assistir ao vídeo do Batmóvel Tumbler em ação no LinkedIn!](https://www.linkedin.com/posts/daniel-aires-netto-4034b13bb_robotica-esp32-hardware-ugcPost-7488655839403188224-SiBG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGZpJAMBhZsb8GDuzQAxA3AAF9nmbmncuFY)**
 
 ---
 
